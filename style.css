@@ -1,1 +1,7 @@
+body { color: violet ; background-color: teal ; font-size: 185%}
 
+.one {color: lavenderblush ; padding:20% ; font-family: Helvetica ; border-style: inset ; border-color: greenyellow}
+.two {color: coral ; border-style: dotted;border-color: hotpink ; padding:40% ; font-family: monospace ; margin: 500px}
+.three {border-style: double ; border-color: seagreen; padding:3% ; font-family: cursive ; background-color: orangered ; margin: 10px}
+.four {font-family: sans-serif ; border-style: ridge ; border-color: skyblue ; margin: 1px ; padding: 30% }
+.five {font-family: fantasy ; margin: 20px ; border-style: outset ; border-color: indianred ; color: goldenrod ; padding: 50%}
