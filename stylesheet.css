@@ -4,13 +4,14 @@ body { color: violet ;
      }
 
 .one {color: lavenderblush; 
-      padding:20%; 
-      font-family: Helvetica ; 
-      border-style: inset ; 
-      border-color: greenyellow;
+      padding:5%; 
+     
      }
+
+ul {list-style: none ; word-spacing: 4px ; float: left  ; padding: 5% ; border-spacing: 10% ; margin: 5%}
 
 .two {color: coral ; border-style: dotted;border-color: hotpink ; padding:10% ; font-family: monospace ; margin: 10px}
 .three {border-style: double ; border-color: seagreen; padding:3% ; font-family: cursive ; background-color: orangered ; margin: 10px} 
 .four {font-family: sans-serif ; border-style: ridge ; border-color: skyblue ; margin: 1px ; padding: 20% }
 .five {font-family: fantasy ; margin: 20px ; border-style: outset ; border-color: indianred ; color: goldenrod ; padding: 15%}
+
